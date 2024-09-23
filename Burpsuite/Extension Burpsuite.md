@@ -1,0 +1,3 @@
+- `jwt-token` : extension qui permet de gerer les token
+- `JS Miner` :est une extension gratuite de Burp Suite Professional qui trouve des éléments intéressants dans des fichiers statiques comme JavaScript et JSON.
+- `retire.js`
