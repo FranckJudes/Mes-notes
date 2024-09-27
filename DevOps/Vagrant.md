@@ -1,0 +1,1 @@
+Vagrant est :**un outil permettant de créer et de gérer des environnements de machines virtuelles dans un seul flux de travail**

@@ -36,6 +36,8 @@
 //36 -  Domaine de valeurs element (folders state)
 37 -  Afficher que les dossiers en fonction du profil configurer dans les workflow
 38 - Access au dossier dans plusieurs entite different
+39 - Orthographe dans les transfert (transfert)
+40 - Element de description (Espace)
 idrisss@gmail.com
 
 Kairos123456$
