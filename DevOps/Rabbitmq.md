@@ -14,3 +14,11 @@ RabbitMQ est un système de message open source qui permet de gérer la communic
    
   L'**Event-Driven Architecture (EDA)**, ou architecture pilotée par les événements, est un modèle d'architecture logiciel dans lequel les composants du système réagissent aux **événements** qui se produisent, plutôt que de suivre un flux de contrôle prédéfini. Ce modèle est largement utilisé dans les systèmes distribués, les micro-services, et les environnements asynchrones. Voici les principaux concepts :
 
+Type de Exchange : 
+- default
+- direct 
+- fanout
+- topic
+- headers
+
+

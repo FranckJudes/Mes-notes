@@ -37,7 +37,18 @@
 37 -  Afficher que les dossiers en fonction du profil configurer dans les workflow
 38 - Access au dossier dans plusieurs entite different
 39 - Orthographe dans les transfert (transfert)
-40 - Element de description (Espace)
+//40 - Element de description (Espace)
+//41 - Support des documents dans les access
+42 - Modification des entites dans la page
+43  - Ajouter au panier dans la recherches
+44 - fonctionnalite entites et tous ces enfants et parents (Page des access)
+45 -  details des access (modifications).
+46 -  Modification file_schemes
+47 -  habilitation test
+48 -  Test sur le prefixe des boite sur le nommage
+49 - calcul en metre lineaire des boites
+50 - Mettre a jour etagere
+
 idrisss@gmail.com
 
 Kairos123456$

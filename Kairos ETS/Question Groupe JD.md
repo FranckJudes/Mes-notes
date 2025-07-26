@@ -12,6 +12,19 @@
 12  -  Verification des indices 
 
 
+		01 Octobre 2024 
+-> Exigence de Groupe JD
+	=> Chaque departement de groupe JD proposera et donnera la nomenclature des elements qu'il manque sur le plan de classement
+	=> Verifier la gestion des fournisseur est prise en compte selon les exigences de groupe JD
+	=> tracer le circuit d'un document
+	=> donner les droits (Access) par poste de travail
+	=> le reporting (Statisque)
+	=> QHCE donne leur nom interne de codification automatique pour synchroniser 
+	
+		
+		
+
+
 
 ESSID : WIFI KAIROS
 Password : Kairos123456789@
